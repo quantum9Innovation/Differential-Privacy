@@ -4,4 +4,4 @@ Differential privacy should be simple. Now that data defines our world, we need 
 
 ![The world is data](https://live.staticflickr.com/5228/5679642883_24a2e905e0_b.jpg)
 
-Read the docs for how to use this API. See also @Quantalabs
+Read the docs for how to use this API. See also [Quantalabs](https://www.github.com/Quantalabs)
