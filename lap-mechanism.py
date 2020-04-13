@@ -14,7 +14,7 @@ def lapmech(data, file_name, epsilon, f, sample_size=10, delta_f=None):
 
         for c in range(columns):
 
-            data_draft.append([raw_data[r].split(',')[c] for r in range(rows)])
+            data_draft.append([float(raw_data[r].split(',')[c]) for r in range(rows)])
             samples = [int(rows * random.random()) for i in range(sample_size)]
             delta_f.append(0.01)
 
