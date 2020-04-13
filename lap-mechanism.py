@@ -21,8 +21,6 @@ def lapmech(data, file_name, epsilon, f, sample_size=10, delta_f=None):
             for i in samples:
 
                 x_prime = [x for x in data_draft[-1]]
-                for j in range(len(x_prime)): x_prime[j] = int(x_prime[j])
-                for j in range(len(data_draft[-1])): data_draft[-1][j] = int(data_draft[-1][j])
                 x_prime[i] += 1
                 delta_f[-1] = max(delta_f[-1], abs(f(data_draft[-1])-f(x_prime)))
 
