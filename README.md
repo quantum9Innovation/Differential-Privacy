@@ -21,4 +21,4 @@ Read the docs for how to use this API. See also [Quantalabs](https://www.github.
 The latest release `v2.0-alpha` features the all-new exponential mechanism, which allows for differential privacy while maximizing a policy function `u`. This is great for auctions and many other applications which seek to maximize some objective. The code is available on Github under the `Releases` tab. However, there is no documentation on this yet and there may be bugs. We hope to fix this in the next release ... 
 
 <br>
-#Made with :heart: at :house:
+#Made with ❤️ at 🏠.
