@@ -9,6 +9,6 @@ def bid_yield(arr, sell):
     return sell*count
 
 
-file = open('C:\\Users\\Teki\\PycharmProjects\\dif-prvcy\\em-test.csv', 'r')
-expmech(file, 'C:\\Users\\Teki\\PycharmProjects\\dif-prvcy\\em-encrypted_test.csv', 3.0, bid_yield, range(0, 10))
+file = open('em-test.csv', 'r')
+expmech(file, 'em-encrypted_test.csv', 3.0, bid_yield, range(0, 10))
 print('Procedure finished.')
