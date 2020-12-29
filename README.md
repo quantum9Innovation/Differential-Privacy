@@ -1,3 +1,7 @@
+# :exclamation:Important:exclamation:
+This repo contains most of the source code for [the Diff Priv package](https://github.com/Quantalabs/DiffPriv) <br>
+For the full code, package, and more visit DiffPriv. **See the Wiki for docs.**
+
 # The truth is more important than ever—let's make sure easy privacy protection is available.
 
 Differential privacy should be simple. Now that data defines our world, we need to look at the cost of privacy. Let's make protecting privacy easy.
